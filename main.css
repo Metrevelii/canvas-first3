@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+   
+}
+
+/* .container {
+    width: 940px;
+    height: 100%;
+    margin: 0 auto;
+} */
+
+/* .canvas__container {
+    display: grid;
+    place-content: center;
+
+    margin-top: 150px;
+} */
+
+canvas {
+    border: 1px solid #000;
+}
